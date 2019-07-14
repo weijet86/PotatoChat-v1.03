@@ -1,0 +1,19 @@
+#EnterChatName {
+    position: absolute;
+    overflow: visible;
+    width: 350px;
+    height: 50px;
+    left: 1050px;
+    top: 80px;
+    font-size: 25px
+}
+
+#EnterChatNameBut {
+    position: absolute;
+    overflow: visible;
+    width: 350px;
+    height: 50px;
+    left: 1050px;
+    top: 150px;
+    font-size: 25px
+}
